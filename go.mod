@@ -1,7 +1,6 @@
 // This is a generated file. Do not edit directly.
 
-module kubesphere.io/api
-
+module github.com/mensylisir/api
 go 1.19
 
 require (
